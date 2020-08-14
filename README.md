@@ -5,4 +5,4 @@
 - 🍎  Focusing on Swift & iOS.
 - 🤖  Sometimes learning about Android.
 - 🤔  Interested in front-end development.
-- 💡  Alwaying learning & thinking.
+- 💡  Always learning & thinking.
